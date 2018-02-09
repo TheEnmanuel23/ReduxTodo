@@ -1,0 +1,15 @@
+{
+  "name": "TodoApp",
+  "version": "1.0.0",
+  "description": "Learning Redux",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/73ryk6o586",
+  "main": "index.js",
+  "dependencies": {
+    "redux": "3.7.2",
+    "react-dom": "16.0.0",
+    "react": "16.0.0",
+    "expect": "22.0.5",
+    "deep-freeze": "0.0.1"
+  }
+}
